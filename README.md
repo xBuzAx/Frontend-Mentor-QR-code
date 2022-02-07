@@ -2,6 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+LIVE: https://xbuzax.github.io/Frontend-Mentor-QR-code/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
